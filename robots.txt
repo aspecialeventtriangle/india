@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /?blackhole
+
+User-Agent: MJ12bot
+Crawl-Delay: 20
